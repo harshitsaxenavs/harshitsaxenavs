@@ -1,8 +1,6 @@
 
 
-#  About Me
-
-##  Harshit Saxena 
+#  Harshit Saxena 
 
 Front-End Web Developer | UI/UX Designer | Data Science | Data Analyst
 
@@ -79,7 +77,7 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 
 ## 📃 [My Resume](https://drive.google.com/file/d/10mJjvQ8VOFFgqbvgWWe_me6xa_nVnNSF/view?usp=drive_link)  
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -89,16 +87,5 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 
 ---
 
-## 💻 Tech Stack
-
-```txt
-Languages:    C, C++, Python, PHP, HTML5, CSS3, JavaScript
-Frontend:     HTML, CSS, JavaScript
-Backend:      PHP
-Database:     MySQL
-Tools:        Excel, PowerPoint, Git, GitHub
-```
-
----
 
 
