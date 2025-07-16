@@ -76,7 +76,7 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 
 ---
 
-## 📃 [My Resume](https://drive.google.com/file/d/10mJjvQ8VOFFgqbvgWWe_me6xa_nVnNSF/view?usp=drive_link)  
+## 📃 [My Resume]
 
 
 
