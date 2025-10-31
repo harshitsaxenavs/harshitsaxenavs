@@ -8,7 +8,7 @@ Front-End Web Developer | UI/UX Designer | Data Science | Data Analyst
 
 ## 👋 Who Am I?
 
-I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Institute Of Technology, Delhi, with a CGPA of 9.76. I’m passionate about technology, always evolving my skill set, and currently in my second year exploring new domains in technology specially Artificial Intelligence and Machine Learning. I have a strong foundation in web development, data analysis, and software engineering, and I enjoy building impactful projects and collaborating with others.
+I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Institute Of Technology, Delhi, with a CGPA of 9.76. I’m passionate about technology, always evolving my skill set, and currently in my third year exploring new domains in technology specially Artificial Intelligence and Machine Learning. I have a strong foundation in web development, data analysis, and software engineering, and I enjoy building impactful projects and collaborating with others.
 
 ---
 
