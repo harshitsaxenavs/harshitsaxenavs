@@ -1,12 +1,9 @@
 
 
-# 👋 Hi, I'm Harshit Saxena  
+# 👋 Harshit Saxena  
 ###  AI & Machine Learning Enthusiast | Data Analyst  | Data Science | Front-End Developer | UI/UX Designer |
 
 
----
-
-## 👋 Who Am I?
 
 I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Institute Of Technology, Delhi. I’m passionate about technology, always evolving my skill set, and currently in my third year exploring new domains in technology specially Artificial Intelligence and Machine Learning. I have a strong foundation in web development, data analysis, and software engineering, and I enjoy building impactful projects and collaborating with others.
 
@@ -61,7 +58,7 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
----
+
 
 ### ⚙️ Backend Development  
 <p>
@@ -70,13 +67,15 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
----
+
 
 ### 🗄️ Databases  
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+---
 
 ### 🎨 UI/UX Tools  
 
@@ -95,13 +94,6 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 
 ---
 
-### ☁️ Cloud  
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
----
 
 ## 📦 Featured Projects  
 
