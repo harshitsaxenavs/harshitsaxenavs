@@ -7,7 +7,7 @@
 
 I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Institute Of Technology, Delhi. I’m passionate about technology, always evolving my skill set, and currently in my third year exploring new domains in technology specially Artificial Intelligence and Machine Learning. I have a strong foundation in web development, data analysis, and software engineering, and I enjoy building impactful projects and collaborating with others.
 
----
+
 
 ## 🧠 Current Focus (2025)
 - 🔥 Building **local and privacy-friendly AI tools** (RAG, embeddings, LLMs etc)
@@ -16,7 +16,6 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 - 🌐 Enhancing my UI/UX + web development stack with modern tools
 - 🎯 Preparing strong AIML/DS Projects 
 
----
 
 
 ## 🎓 Education  
@@ -26,11 +25,11 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
   
 
 
----
+
 
 ## 🛠️ Technical Skills
 
----
+
 
 ### 🤖 Artificial Intelligence & Machine Learning  
 
@@ -45,7 +44,6 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-20232A?style=for-the-badge)
 
----
 
 ### 🌐 Web Development  
 
@@ -75,14 +73,14 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+
 
 ### 🎨 UI/UX Tools  
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+
 
 ### 🔧 Tools & Platforms  
 
@@ -92,7 +90,6 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
 
 ## 📦 Featured Projects  
@@ -112,7 +109,6 @@ Responsive health solution website with secure doctor Q&A chat and multi-device 
 ### 🔹 **EcoSpark Solutions – Electricity Usage Dashboard**  
 Interactive electricity monitoring with automated alerts and complaint redressal.
 
----
 
 ## 🏆 Achievements  
 - 🥇 **Sundar Pichai Award** – Scored 100/100 in Class X Information Technology  
@@ -121,13 +117,13 @@ Interactive electricity monitoring with automated alerts and complaint redressal
 - 🎖️ **Finalist – TechMinds Hackathon**  
 - 🏅 **Silver Medal – Rastriye Hindi Olympiad**
 
----
+
 
 ## 🤝 Positions of Responsibility  
 - 🎨 **UI/UX & Web Developer – Microsoft Student Club (MSC), MSIT**  
 - 💡 Active member involved in tech events, development, and design initiatives  
 
----
+
 
 ## 📜 Courses & Certificates
 
@@ -136,7 +132,7 @@ Interactive electricity monitoring with automated alerts and complaint redressal
 - **Deloitte Australia – Cyber Security Job Simulation**  
   Hands-on virtual experience in real-world cyber security tasks.
   
----
+
 
 ## 🌐 Connect with Me
 
@@ -144,7 +140,6 @@ Interactive electricity monitoring with automated alerts and complaint redressal
 - [LinkedIn](https://www.linkedin.com/in/harshit-saxena-vs/) 
 - [GitHub](https://github.com/harshitsaxenavs/) 
 
----
 
 
 
