@@ -1,8 +1,8 @@
 
 
-#  Harshit Saxena 
-
-Front-End Web Developer | UI/UX Designer | Data Science | Data Analyst
+# 👋 Hi, I'm Harshit Saxena  
+###  AI & Machine Learning Enthusiast | Data Analyst  | Data Science | Front-End Developer | UI/UX Designer |
+🎓 B.Tech CSE @ MSIT, GGSIPU | CGPA: 9.76 
 
 ---
 
@@ -10,13 +10,22 @@ Front-End Web Developer | UI/UX Designer | Data Science | Data Analyst
 
 I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Institute Of Technology, Delhi, with a CGPA of 9.76. I’m passionate about technology, always evolving my skill set, and currently in my third year exploring new domains in technology specially Artificial Intelligence and Machine Learning. I have a strong foundation in web development, data analysis, and software engineering, and I enjoy building impactful projects and collaborating with others.
 
+
+## 🧠 Current Focus (2025)
+- 🔥 Building **local and privacy-friendly AI tools** (RAG, embeddings, LLMs etc)
+- 📚 Learning **Machine Learning, NLP, Vector Databases, Deep Learning**
+- 🤖 Working on **NotesGPT-AI**, **offline RAG AI Teaching Assistant**, **ML Models**
+- 🌐 Enhancing my UI/UX + web development stack with modern tools
+- 🎯 Preparing strong AIML/DS Projects 
+
 ---
 
 ## 🎓 Education
 
-- **Bachelor of Technology in Computer Science and Engineering**  
-  Maharaja Surajmal Institute Of Technology, Delhi
-  CGPA: 9.76
+## 🎓 Education  
+**Bachelor of Technology in Computer Science (CSE)**  
+*Maharaja Surajmal Institute of Technology, New Delhi*  
+**CGPA:** 9.76
   
 
 
@@ -33,36 +42,37 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 
 ---
 
-## 🚀 Projects
+## 📦 Featured Projects  
 
-- **Aarogya Health** | HTML, CSS, JavaScript  
-  Developed a dynamic health solutions website with confidential chat for doctor Q&A, responsive UI, and multi-device support, deployed on Vercel.
+### 🔹 **RAG-based AI Teaching Assistant (Local LLM + FAISS + LangChain)**  
+A fully offline RAG system that converts video lectures into searchable embeddings and answers questions using only the user’s data — privacy-first, no API keys needed.
 
-- **Hotel Booking System** | MySQL  
-  Built a real-time hotel booking system automating reservations, guest management, and payments, with automated invoicing and scalable architecture.
+### 🔹 **NotesGPT-AI**  
+An AI note-making tool that extracts key points, summaries, and structured notes from PDFs using local embeddings.
 
-- **EcoSpark Solutions** | HTML, CSS, JavaScript, PHP  
-  Created a platform for monitoring electricity usage, with dashboards, automated alerts, and a redressal system for efficient issue resolution.
+### 🔹 **House Rent Prediction (ML Project)**  
+Predicts monthly rent using ML models and feature engineering using Python.
 
----
+### 🔹 **Aarogya Health – Health Assistance Platform**  
+Responsive health solution website with secure doctor Q&A chat and multi-device support.
 
-## 🏅 Achievements
-
-- **Sundar Pichai Award for Excellence in IT**  
-  Perfect score (100/100) in Class X CBSE Information Technology.
-
-- **1st Rank, Web Development & UI/UX Design**  
-  Spandan WebCoderz, Vivekanand School.
-
-- **Finalist, TechMinds Hackathon**  
-  College coding competition.
+### 🔹 **EcoSpark Solutions – Electricity Usage Dashboard**  
+Interactive electricity monitoring with automated alerts and complaint redressal.
 
 ---
 
-## 🤝 Positions of Responsibility
+## 🏆 Achievements  
+- 🥇 **Sundar Pichai Award** – Scored 100/100 in Class X Information Technology  
+- 🥇 **1st Rank – Web Development & UI/UX (Spandan WebCoderz, Vivekanand School)**  
+- 🥈 **Maths Pirates Olympiad – 2nd Rank**  
+- 🎖️ **Finalist – TechMinds Hackathon**  
+- 🏅 **Silver Medal – Rastriye Hindi Olympiad**
 
-- **Microsoft Student Chapter, MSIT**  
-  Member, UI/UX and Web Development Department, Microsoft Student Club (MSC).
+---
+
+## 🤝 Positions of Responsibility  
+- 🎨 **UI/UX & Web Developer – Microsoft Student Club (MSC), MSIT**  
+- 💡 Active member involved in tech events, development, and design initiatives  
 
 ---
 
@@ -73,12 +83,6 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 - **Deloitte Australia – Cyber Security Job Simulation**  
   Hands-on virtual experience in real-world cyber security tasks.
   
-
----
-
-## 📃 [My Resume]
-Link 
-
 
 
 ## 🌐 Connect with Me
