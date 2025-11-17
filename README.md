@@ -2,14 +2,15 @@
 
 # 👋 Hi, I'm Harshit Saxena  
 ###  AI & Machine Learning Enthusiast | Data Analyst  | Data Science | Front-End Developer | UI/UX Designer |
-🎓 B.Tech CSE @ MSIT, GGSIPU | CGPA: 9.76 
+
 
 ---
 
 ## 👋 Who Am I?
 
-I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Institute Of Technology, Delhi, with a CGPA of 9.76. I’m passionate about technology, always evolving my skill set, and currently in my third year exploring new domains in technology specially Artificial Intelligence and Machine Learning. I have a strong foundation in web development, data analysis, and software engineering, and I enjoy building impactful projects and collaborating with others.
+I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Institute Of Technology, Delhi. I’m passionate about technology, always evolving my skill set, and currently in my third year exploring new domains in technology specially Artificial Intelligence and Machine Learning. I have a strong foundation in web development, data analysis, and software engineering, and I enjoy building impactful projects and collaborating with others.
 
+---
 
 ## 🧠 Current Focus (2025)
 - 🔥 Building **local and privacy-friendly AI tools** (RAG, embeddings, LLMs etc)
@@ -20,7 +21,6 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 
 ---
 
-## 🎓 Education
 
 ## 🎓 Education  
 **Bachelor of Technology in Computer Science (CSE)**  
@@ -83,7 +83,7 @@ Interactive electricity monitoring with automated alerts and complaint redressal
 - **Deloitte Australia – Cyber Security Job Simulation**  
   Hands-on virtual experience in real-world cyber security tasks.
   
-
+---
 
 ## 🌐 Connect with Me
 
