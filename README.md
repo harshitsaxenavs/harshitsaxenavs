@@ -47,7 +47,7 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 
 ---
 
-## 🌐 Web Development  
+### 🌐 Web Development  
 
 ### 🖥️ Frontend Development  
 <p>
