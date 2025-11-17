@@ -44,6 +44,7 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-20232A?style=for-the-badge)
 
+---
 
 ### 🌐 Web Development  
 
@@ -73,14 +74,14 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-
+---
 
 ### 🎨 UI/UX Tools  
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-
+---
 
 ### 🔧 Tools & Platforms  
 
