@@ -102,7 +102,7 @@ A fully offline RAG system that converts video lectures into searchable embeddin
 An AI note-making tool that extracts key points, summaries, and structured notes from PDFs using local embeddings.
 
 ### 🔹 **House Rent Prediction (ML Project)**  
-Predicts monthly rent using ML models and feature engineering using Python.
+Predicts monthly rent prices using ML models and feature engineering using Python.
 
 ### 🔹 **Aarogya Health – Health Assistance Platform**  
 Responsive health solution website with secure doctor Q&A chat and multi-device support.
@@ -116,7 +116,7 @@ Interactive electricity monitoring with automated alerts and complaint redressal
 - 🥇 **1st Rank – Web Development & UI/UX (Spandan WebCoderz, Vivekanand School)**  
 - 🥈 **Maths Pirates Olympiad – 2nd Rank**  
 - 🎖️ **Finalist – TechMinds Hackathon**  
-- 🏅 **Silver Medal – Rastriye Hindi Olympiad**
+- 🏅 **Silver Medal – Rastriye Hindi Olympiad **
 
 
 
