@@ -127,14 +127,18 @@ Interactive electricity monitoring with automated alerts and complaint redressal
 
 
 ## 📜 Courses & Certificates
-
-- **Deloitte Australia – Data Analytics Job Simulation**  
-  Hands-on virtual experience in real-world data analytics tasks.
 - **NIELIT Certificate Course in Data Science using Python**
    Certified in Data Science with hands-on experience using NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn on real-world tasks.
+- **Deloitte Australia – Data Analytics **  
+  Hands-on virtual experience in real-world data analytics tasks.
+- **Al-Machine Learning Engineer Foundation**
+  Al-ML Engineer Foundation certification by Reliance Foundation Skilling Academy.
 - **Deloitte Australia – Cyber Security Job Simulation**  
   Hands-on virtual experience in real-world cyber security tasks.
-  
+
+ 
+
+
 
 
 ## 🌐 Connect with Me
