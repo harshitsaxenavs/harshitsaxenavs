@@ -129,7 +129,7 @@ Interactive electricity monitoring with automated alerts and complaint redressal
 ## 📜 Courses & Certificates
 - **NIELIT Certificate Course in Data Science using Python**
    Certified in Data Science with hands-on experience using NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn on real-world tasks.
-- **Deloitte Australia – Data Analytics **  
+- **Deloitte Australia – Data Analytics**
   Hands-on virtual experience in real-world data analytics tasks.
 - **Al-Machine Learning Engineer Foundation**
   Al-ML Engineer Foundation certification by Reliance Foundation Skilling Academy.
