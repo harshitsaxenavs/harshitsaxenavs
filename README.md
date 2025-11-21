@@ -116,7 +116,7 @@ Interactive electricity monitoring with automated alerts and complaint redressal
 - 🥇 **1st Rank – Web Development & UI/UX (Spandan WebCoderz, Vivekanand School)**  
 - 🥈 **Maths Pirates Olympiad – 2nd Rank**  
 - 🎖️ **Finalist – TechMinds Hackathon**  
-- 🏅 **Silver Medal – Rastriye Hindi Olympiad **
+- 🏅 **Silver Medal – Rastriye Hindi Olympiad**
 
 
 
