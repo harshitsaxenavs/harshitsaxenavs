@@ -9,7 +9,7 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 
 
 
-## 🧠 Current Focus (2025)
+## 🧠 Current Focus (2026)
 - 🔥 Building **local and privacy-friendly AI tools** (RAG, embeddings, LLMs etc)
 - 📚 Learning **Machine Learning, NLP, Vector Databases, Deep Learning**
 - 🤖 Working on **NotesGPT-AI**, **offline RAG AI Teaching Assistant**, **ML Models**
