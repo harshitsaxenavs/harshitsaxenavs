@@ -21,7 +21,7 @@ I'm Harshit Saxena, a BTech Computer Science student at Maharaja Surajmal Instit
 ## 🎓 Education  
 **Bachelor of Technology in Computer Science (CSE)**  
 *Maharaja Surajmal Institute of Technology, New Delhi*  
-**CGPA:** 9.76
+**CGPA:** 9.81
   
 
 
