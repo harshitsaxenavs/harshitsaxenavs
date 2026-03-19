@@ -2,7 +2,7 @@
 <h3 align="center">AI & Machine Learning | Data Science | Front-End Developer </h3>
 
 <p align="center">
-  I am a B.Tech Computer Science student at <b>Guru Gobind Singh Indraprastha University, Delhi</b> (Institute Rank 1, CGPA 9.81) specializing in AI & Machine Learning. I have a strong foundation in Data Structures and Algorithms and practical experience in developing end-to-end, production-ready ML systems. I specialize in architecting Generative AI solutions—including RAG pipelines, semantic search systems, and embedding-based retrieval workflows—and have hands-on experience building locally deployed LLM applications and AI agents using Ollama, Llama 3.2, and DeepSeek.
+  I am a B.Tech Computer Science student at <b>Guru Gobind Singh Indraprastha University, Delhi</b> (CGPA 9.81) specializing in AI & Machine Learning. I have a strong foundation in Data Structures and Algorithms and practical experience in developing end-to-end, production-ready ML systems. I specialize in architecting Generative AI solutions—including RAG pipelines, semantic search systems, and embedding-based retrieval workflows—and have hands-on experience building locally deployed LLM applications and AI agents using Ollama, Llama 3.2, and DeepSeek.
 </p>
 
 ---
@@ -123,21 +123,6 @@
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshitsaxenavs&theme=radium&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Harshit's Trophies" />
-  </a>
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitsaxenavs&show_icons=true&theme=radium" alt="Harshit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsaxenavs&layout=compact&theme=radium" alt="Top Languages" />
-  <br><br>
-
-</div>
-
----
 
 ## 🌐 Connect with Me
 
