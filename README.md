@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Harshit Saxena 👋</h1>
+<h1 align="center">Hi there, I'm Harshit Saxena </h1>
 <h3 align="center">AI & Machine Learning | Data Science | Front-End Developer </h3>
 
 <p align="center">
@@ -96,7 +96,7 @@
 
 ---
 
-## 🏆 Achievements 
+##  Achievements 
 * 🥇 **Academic Excellence:** Achieved **Institute Rank 1** in B.Tech CSE (AI & ML) for highest academic standing.
 * 🥈 **Techminds Hackathon:** Secured runner-up position by engineering an innovative sustainable solution.
 * 📜 **NIELIT (Govt. of India):** Earned a score of **94%** in the Data Science Industrial Training program.
@@ -122,7 +122,7 @@
 ---
 
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="mailto:harshitsaxenavs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
