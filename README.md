@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Harshit Saxena </h1>
-<h3 align="center">AI & Machine Learning | Data Science | Front-End Developer </h3>
+<h1 align="center">Hi there, I'm Harshit Saxena</h1>
+<h3 align="center">AI & Machine Learning | Data Science | Front-End Developer</h3>
 
 <p align="center">
   I am a B.Tech Computer Science student at <b>Guru Gobind Singh Indraprastha University, Delhi</b> (CGPA 9.81) specializing in AI & Machine Learning. I have a strong foundation in Data Structures and Algorithms and practical experience in developing end-to-end, production-ready ML systems. I specialize in architecting Generative AI solutions—including RAG pipelines, semantic search systems, and embedding-based retrieval workflows—and have hands-on experience building locally deployed LLM applications and AI agents using Ollama, Llama 3.2, and DeepSeek.
@@ -7,28 +7,28 @@
 
 ---
 
-##  Current Focus (2026)
-*  Building **Generative AI applications** and **privacy-first local tools** using LLMs, LangChain, and Prompt Engineering.
-*  Deep diving into **Deep Learning architectures (ANNs, CNNs, RNNs)**, **Transformers**, and **Attention Mechanisms**.
-*  Expanding **RAG (Retrieval-Augmented Generation)** capabilities with Vector Databases, Document Loaders, and Text Splitters. 
-*  Actively developing robust AI/ML projects like **NotesGPT-AI** and my offline **RAG AI Teaching Assistant**.
+## Current Focus (2026)
+* Building **Generative AI applications** and **privacy-first local tools** using LLMs, LangChain, and Prompt Engineering.
+* Deep diving into **Deep Learning architectures (ANNs, CNNs, RNNs)**, **Transformers**, and **Attention Mechanisms**.
+* Expanding **RAG (Retrieval-Augmented Generation)** capabilities with Vector Databases, Document Loaders, and Text Splitters. 
+* Actively developing robust AI/ML projects like **NotesGPT-AI** and my offline **RAG AI Teaching Assistant**.
 
-##  Education 
-**B.Tech in Computer Science and Engineering (Minors in AI & ML)** 
-**Guru Gobind Singh Indraprastha University, Delhi** **CGPA:** 9.81
+## Education 
+**B.Tech in Computer Science and Engineering (Minors in AI & ML)**<br>
+*Guru Gobind Singh Indraprastha University, Delhi* • **CGPA:** 9.81
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
-###  Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
-###  Artificial Intelligence & Machine Learning 
+### Artificial Intelligence & Machine Learning 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -43,7 +43,9 @@
   <img src="https://img.shields.io/badge/FAISS-20232A?style=for-the-badge" alt="FAISS"/>
 </p>
 
-###  Web Development 
+### Web Development 
+
+**Frontend:**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -56,7 +58,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### ⚙️ MLOps, Deployment & Tools
+### MLOps, Deployment & Tools
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
@@ -68,52 +70,47 @@
 
 ---
 
+## Featured Projects 
 
-##  Featured Projects 
-
-### 🔹 [RAG-based AI Teaching Assistant](https://github.com/harshitsaxenavs/RAG-based-AI-Teaching-Assistant)
+### [RAG-based AI Teaching Assistant](https://github.com/harshitsaxenavs/RAG-based-AI-Teaching-Assistant)
 **Tech Stack:** `RAG` `Ollama` `Llama 3.2` `Whisper` `FAISS`
 * Engineered a RAG assistant transforming video lectures into searchable embeddings for precise LLM queries.
 * Automated audio extraction, Whisper transcription, and JSON chunking pipelines for vector generation.
 * Implemented FAISS semantic search with cosine similarity to retrieve accurate timestamped citations.
 * Ensured 100% data privacy by deploying local offline workflows with Llama 3.2 and DeepSeek models.
 
-### 🔹 [NotesGPT-AI Q&A Assistant](https://github.com/harshitsaxenavs/NotesGPT-AI)
+### [NotesGPT-AI Q&A Assistant](https://github.com/harshitsaxenavs/NotesGPT-AI)
 **Tech Stack:** `Streamlit` `LangChain` `FAISS` `HuggingFace`
 * Deployed a Streamlit PDF assistant utilizing semantic vector search for instant document querying.
 * Optimized text chunking and multi-model retrieval workflows to deliver high-accuracy AI responses.
 * Enhanced UX via session caching, real-time indicators, expandable answers, and document analytics.
 * Integrated relevance-based filtering, downloadable summaries, and automated PDF insight features.
 
-### 🔹 [House Rent Prediction Model](https://github.com/harshitsaxenavs/House-Rent-Prediction-Model)
+### [House Rent Prediction Model](https://github.com/harshitsaxenavs/House-Rent-Prediction-Model)
 **Tech Stack:** `Python` `Pandas` `Scikit-Learn` `Streamlit`
 * Developed regression models to predict rental prices based on location, furnishing, and property layout.
 * Conducted EDA to identify rental patterns, feature correlations, and key statistical distributions.
 * Improved prediction performance over Linear Regression baseline using Random Forest regression.
 * Deployed an interactive Streamlit web app enabling real-time price predictions via dynamic user inputs.
 
+---
 
+## Achievements 
+* **Academic Excellence:** Achieved **Institute Rank 1** in B.Tech CSE (AI & ML) for highest academic standing.
+* **Techminds Hackathon:** Secured runner-up position by engineering an innovative sustainable solution.
+* **NIELIT (Govt. of India):** Earned a score of **94%** in the Data Science Industrial Training program.
+* **Sundar Pichai Award:** Scored 100% in Class X Information Technology.
+* **1st Rank:** Web Development (Spandan WebCoderz Event).
 
 ---
 
-##  Achievements 
-* 🥇 **Academic Excellence:** Achieved **Institute Rank 1** in B.Tech CSE (AI & ML) for highest academic standing.
-* 🥈 **Techminds Hackathon:** Secured runner-up position by engineering an innovative sustainable solution.
-* 📜 **NIELIT (Govt. of India):** Earned a score of **94%** in the Data Science Industrial Training program.
-* 🥇 **Sundar Pichai Award** – Scored 100% in Class X Information Technology 
-* 🥇 **1st Rank** – Web Development (Spandan WebCoderz Event) 
-* 🎖️ **Finalist** – TechMinds Hackathon 
-
+## Positions of Responsibility 
+* **Web Developer** – Microsoft Student Club (MSC), MSIT.
+* Active member involved in tech events and development initiatives.
 
 ---
 
-##  Positions of Responsibility 
-*  **Web Developer** – Microsoft Student Club (MSC), MSIT 
-*   Active member involved in tech events and development initiatives.
-
----
-
-##  Courses & Certifications
+## Courses & Certifications
 * **NIELIT Certificate Course in Data Science using Python**: Certified in Data Science with hands-on experience using NumPy, Pandas, Matplotlib, Seaborn, and Scikit-Learn on real-world tasks.
 * **Deloitte Australia – Data Analytics**: Hands-on virtual experience in real-world data analytics tasks.
 * **AI-Machine Learning Engineer Foundation**: Certification by Reliance Foundation Skilling Academy.
@@ -121,8 +118,7 @@
 
 ---
 
-
-##  Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="mailto:harshitsaxenavs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
