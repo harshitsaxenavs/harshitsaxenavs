@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/sentence--transformers-F9DC3E?style=for-the-badge&logo=huggingface&logoColor=black" alt="sentence-transformers"/>
   <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Llama_3.2-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3.2"/>
+  <img src="https://img.shields.io/badge/Llama_3.2-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama"/>
   <img src="https://img.shields.io/badge/DeepSeek-4A90D9?style=for-the-badge" alt="DeepSeek"/>
 </p>
 
