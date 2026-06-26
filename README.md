@@ -2,7 +2,7 @@
 <h3 align="center">AI & Machine Learning | Data Science | Front-End Developer</h3>
 
 <p align="center">
-  I am a B.Tech Computer Science student at <b>Guru Gobind Singh Indraprastha University, Delhi</b> (CGPA 9.81) specializing in AI & Machine Learning. I have a strong foundation in Data Structures and Algorithms and practical experience in developing end-to-end, production-ready ML systems. I specialize in architecting Generative AI solutions—including RAG pipelines, semantic search systems, and embedding-based retrieval workflows—and have hands-on experience building locally deployed LLM applications and AI agents using Ollama, Llama 3.2, and DeepSeek.
+  I am a B.Tech Computer Science @ <b>Guru Gobind Singh Indraprastha University, Delhi</b> specializing in AI & Machine Learning. I have a strong foundation in Data Structures and Algorithms and practical experience in developing end-to-end, production-ready ML systems. I specialize in architecting Generative AI solutions—including RAG pipelines, semantic search systems, and embedding-based retrieval workflows—and have hands-on experience building applications and AI agents using LLMs.
 </p>
 
 ---
