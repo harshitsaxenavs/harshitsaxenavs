@@ -40,32 +40,25 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/HuggingFace-F9DC3E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   <img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/FAISS-20232A?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/FAISS-20232A?style=for-the-badge" alt="FAISS"/><img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Llama_3.2-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Llama"/>
 </p>
 
-### Web Development 
-
-**Frontend:**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-</p>
-
-**Databases:** <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
 
 ### MLOps, Deployment & Tools
 <p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </p>
 
 ---
@@ -112,16 +105,21 @@
 
 ## Courses & Certifications
 * **NIELIT Certificate Course in Data Science using Python**: Certified in Data Science with hands-on experience using NumPy, Pandas, Matplotlib, Seaborn, and Scikit-Learn on real-world tasks.
+* **Google Cloud – Introduction to Generative AI**: Fundamentals of Generative AI and large language models.
+* **Google Cloud – Introduction to Large Language Models**: Core concepts and practical applications of LLMs.
 * **Deloitte Australia – Data Analytics**: Hands-on virtual experience in real-world data analytics tasks.
 * **AI-Machine Learning Engineer Foundation**: Certification by Reliance Foundation Skilling Academy.
 * **Deloitte Australia – Cyber Security Job Simulation**: Hands-on virtual experience in real-world cyber security tasks.
-
 ---
 
 ## Connect with Me
-
+ 
 <p align="center">
-  <a href="mailto:harshitsaxenavs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/harshit-saxena-vs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://harshitsaxena.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:harshitsaxenavs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/harshit-saxena-vs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://harshitsaxena.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
+<p align="center"><i>Open to AI/ML engineering roles and PPO-converting internships.</i></p>
+ 
