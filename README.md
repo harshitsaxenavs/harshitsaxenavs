@@ -14,7 +14,7 @@
 * Actively developing robust AI/ML projects like **NotesGPT-AI** and my offline **RAG AI Teaching Assistant**.
 
 ## Education 
-**B.Tech in Computer Science and Engineering (Minors in AI & ML)**<br>
+**B.Tech in Computer Science and Engineering (Minor in AI & ML)**<br>
 *Guru Gobind Singh Indraprastha University, Delhi* • **CGPA:** 9.81
 
 ---
